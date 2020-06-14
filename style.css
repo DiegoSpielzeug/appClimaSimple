@@ -47,13 +47,13 @@ main{
     text-align: center;
     color: #fff;
 }
-.ciudad{
+.contry{
     color: #fff;
     font-size: 2.5rem;
     margin-bottom: 5px;
     font-weight: 500px;
 }
-.fecha{
+.date{
     font-size: 1.5rem;
 }
 .tiempo{
